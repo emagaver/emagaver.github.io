@@ -69508,7 +69508,7 @@ f=i.a9J(A.alX(A.fe(h.y),A.fe(h.z),A.fe(h.Q),s,r,n,m,l,k,A.fe(h.as),A.fe(h.at),A.
 g=$.ava()
 j=g.a
 g=A.b(g.b,"routerDelegate")
-return new A.m1($.awR(),j,g,"Flutter Demo",f,e)},
+return new A.m1($.awR(),j,g,"Nitecap",f,e)},
 $S:429}
 A.wf.prototype={
 ao(){return new A.NA(new A.bu(B.fw,$.aR(),t.o9),B.o)}}
