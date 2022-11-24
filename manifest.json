@@ -1,11 +1,11 @@
 {
-    "name": "game_template",
-    "short_name": "game_template",
+    "name": "Nitecap",
+    "short_name": "NT",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A pre-alpha text game",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
