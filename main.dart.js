@@ -69962,7 +69962,7 @@ A.a2_.prototype={
 $0(){A.b(this.a.L(t.o).f.b,"routerDelegate").cl(0)},
 $S:0}
 A.rs.prototype={
-I(a,b){var s,r=null,q=A.XS(B.fv,B.x8,new A.iT("images/map.jpg")),p=$.akc()
+I(a,b){var s,r=null,q=A.XS(B.fv,B.x8,new A.iT("assets/images/map.jpg")),p=$.akc()
 p=p.gb9(p)
 s=t.l7
 return A.t3(r,r,A.dO(r,A.alk(A.aq(A.m0(p,new A.a2m(),A.m(p).i("o.E"),s),!0,s)),r,r,new A.dN(r,q,r,r,r,r,B.am),r,r,r,r))}}
